@@ -1,0 +1,1 @@
+-remove tanda baca yang tidak perlu seperti tanda kurung menggunakan fitur find and replace di excel
